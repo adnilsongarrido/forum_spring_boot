@@ -18,3 +18,7 @@ Segue alguns exemplos de teste (com Postman, por exemplo):
     }
     
 4 - http://localhost:8080/topicos/2 (DELETE)
+
+
+
+![image](https://user-images.githubusercontent.com/97981213/149999964-c35f3a4b-f6e2-4e64-8ef6-5cbc3af45257.png)
